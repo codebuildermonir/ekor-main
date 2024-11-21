@@ -4,12 +4,12 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        g1: "url('../../public/image/asset 32.png')",
-        g2: "url('../../public/image/asset 33.png')",
+       "footer-texture": "url('./public/imgaes/pozadí 1.png')",
+       "g2": "url('../../public/image/asset 33.png')",
       },
       fontFamily: {
-        barlow: ["Barlow", "sans-serif"],
-        inter: ["Inter", "sans-serif"],
+       "barlow": ["Barlow", "sans-serif"],
+        "inter": ["Inter", "sans-serif"],
       },
       colors: {
         "green-800": "#1D7460",
