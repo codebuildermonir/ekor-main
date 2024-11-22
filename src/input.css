@@ -2,8 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
-
-
 body{
       background-color:#F4F5F6;
+}
+.active{
+      display: block;
+}
+.btn-active{
+      background-color: white;
 }
